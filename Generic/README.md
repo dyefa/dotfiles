@@ -1,1 +1,1 @@
-h1 Config that can be used for any Linux OS
+Config that can be used for any Linux OS
